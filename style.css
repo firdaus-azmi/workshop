@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(56, 56, 60);
+}
+
+h1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    color: rgb(177, 61, 61);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    color: rgb(83, 95, 135);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h4{
+    color: rgb(71, 144, 76);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h5{
+    color: rgb(255, 123, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
