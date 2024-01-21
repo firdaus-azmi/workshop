@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}
+
+.h{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: x-large;
+}
+
+.p{
+    color: rgb(119, 56, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: larger;
+}
